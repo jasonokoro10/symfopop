@@ -32,6 +32,15 @@ Aquesta aplicació web permet als usuaris registrar-se, iniciar sessió i public
 - **Email**: `admin@symfopop.com`
 - **Password**: `admin123`
 
+## 🚀 Enllaços Directes al Projecte SymfoPop
+
+- 🗄️ **Entitats**: [Entity](https://github.com/jasonokoro10/symfopop/tree/main/src/Entity)
+- 🎮 **Controladors**: [Controller](https://github.com/jasonokoro10/symfopop/tree/main/src/Controller)
+- 📝 **Formularis**: [Form](https://github.com/jasonokoro10/symfopop/tree/main/src/Form)
+- 🎨 **Vistes**: [Templates](https://github.com/jasonokoro10/symfopop/tree/main/templates)
+- 🔒 **Seguretat**: [Security Config](https://github.com/jasonokoro10/symfopop/blob/main/config/packages/security.yaml)
+- 📦 **Fixtures**: [DataFixtures](https://github.com/jasonokoro10/symfopop/tree/main/src/DataFixtures)
+
 ---
 
 _Projecte finalitzat i comentat en català segons les directrius de l'arquitecte._
